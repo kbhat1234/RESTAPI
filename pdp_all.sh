@@ -1,3 +1,10 @@
 ./catalog_product.sh
 ./pdp_productdetails.sh
 ./pdp_products.sh
+./pdp_config.sh
+./pdp_page.sh
+./pdp_product_id.sh
+./pdp_product_viewed.sh
+./pdp_productdetails_product_id.sh
+./pdp_recipes_recipe.sh
+./pdp_recipes_recipe_ids.sh
