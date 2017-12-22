@@ -1,0 +1,1 @@
+curl -i -X POST 'node.licious.in/api/v2/user/address/save?source=mobilesite' -H "token:tk_j6g9oxtq" -d "customer_key=arshad1234&line1=Test Address&line2=address line2  optional&city=Bangalore&contact=7401327111&address_id=12599&lat=13.0227569&lng=77.5805568&landmark=testing landmark2"
