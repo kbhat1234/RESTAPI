@@ -1,0 +1,1 @@
+curl -i -X POST 'node.licious.in/api/subscription/subscribe' -H "Content-Type:application/x-www-form-urlencoded" -d "name=asd&email=arshad@licious.in&phone=77361546758&fb_id=dfjklnsoilrneoir&google_id=102639547469743865164"
