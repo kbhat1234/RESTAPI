@@ -1,0 +1,1 @@
+curl --request GET --url 'https://ms1.licious.in/reviews/fetch/arjuntest'
