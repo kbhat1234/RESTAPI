@@ -1,1 +1,1 @@
-curl -i -X GET 'http://node.licious.in/api/order/shipments/delete/5a5756406cbdeca6470d6f51/1/pr_5785b9065d7e1?source=mobilesite'
+curl -i -X GET 'node.licious.in/api/order/shipments/delete/5a817264bbe715bd0a29df44/2/pr_58626f2fd9841?source=mobilesite'
