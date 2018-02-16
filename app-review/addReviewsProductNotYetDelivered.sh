@@ -1,3 +1,5 @@
+#adding reviews when product is not yet delivered.
+
 #provide valid order_id, customer_key, items_count, rating
 curl -i -X POST 'https://ms1.licious.in/reviews/add' -H "Content-Type:application/json" -d '{
     "order_id": "jdog3eag",
