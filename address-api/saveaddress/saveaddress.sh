@@ -1,0 +1,19 @@
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=9886867677&address_id=95601&lat=12.9713198&lng=77.6413299&landmark=Himagiri green forest"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=9886867677&lat=12.9713198&lng=77.6413299&landmark=Himagiri green forest"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddresss' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=9886867677&address_id=95601&lat=12.9713198&lng=77.6413299&landmark=Himagiri green forest"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "pincode=560078&state=karnataka&address_id=95601&landmark=Himagiri green forest"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: 1tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=9886867677&address_id=95601&lat=12.9713198&lng=77.6413299&landmark=Himagiri green forest"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=9886867677&address_id=95601&lat=12.9713198&lng=77.6413299"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&contact=9886867677&lat=12.9713198&lng=77.6413299"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=9886867677&address_id=95601&lat=12.9713198&lng=77.6413299&landmark=Himagiri green forest"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=abcd988&address_id=95601&lat=12.9713198&lng=77.6413299&landmark=Himagiri green forest"
+
+curl -i -X POST 'http://52.77.22.148:3001/users/v1/saveaddress' -H "Content-Type: application/x-www-form-urlencoded" -H "access-token: tk_jghephjr" -d "customer_key=c_jgdkduzz&line1=RS Homes S3 2nd floor 2nd cross&line2=silver oak street, Aravind layout, JP Nagar 7th phase&city=Bangalore&pincode=560078&state=karnataka&contact=9886867677&address_id=95601&lat=@#12.9713198&lng=#$77.6413299&landmark=Himagiri green forest"
