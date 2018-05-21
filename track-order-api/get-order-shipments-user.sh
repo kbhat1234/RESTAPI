@@ -17,7 +17,3 @@ curl -i -X GET 'http://52.77.22.148:3001/users/v1/order_shipments?order_id=jhg0i
 curl -i -X GET 'http://52.77.22.148:3001/users/v1/order_shipments?' -H "source:msite" -H "access-token:tk_jghephjr"
 
 curl -i -X GET 'http://52.77.22.148:3001/users/v1/order_shipments?'
-
-
-
-
